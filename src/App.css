@@ -31,7 +31,7 @@
  /*Styling specific to our maps*/
  .map-container {
   position: absolute;
-  height:500px;
+  height:400px;
   width:100%;
 }
  /* Tab Navigation */
@@ -75,4 +75,5 @@ ul.nav li.active {
 .TabContent {
   font-size: 2rem;
   text-align: center;
+  position: relative;
 }
