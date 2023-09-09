@@ -32,11 +32,7 @@
  .map-container {
   position: absolute;
   height:400px;
-<<<<<<< HEAD
-  width: 100%;
-=======
   width:100%;
->>>>>>> eeacb188571b7bca6f1205bfe01700070b86dd8c
 }
  /* Tab Navigation */
 ul.nav {
@@ -79,10 +75,5 @@ ul.nav li.active {
 .TabContent {
   font-size: 2rem;
   text-align: center;
-<<<<<<< HEAD
-  position: relative
-}
-=======
   position: relative;
 }
->>>>>>> eeacb188571b7bca6f1205bfe01700070b86dd8c
